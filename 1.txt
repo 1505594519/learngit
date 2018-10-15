@@ -1,2 +1,3 @@
 tar -zvf lianliankan.tgz lianliankan
 tar -zcf lianliankan.tgz lanliankan
+cat命令是linux下的一个文本输出命令，通常是用来观看某个文件内容的;
