@@ -1,1 +1,2 @@
 tar -zvf lianliankan.tgz lianliankan
+tar -zcf lianliankan.tgz lanliankan
