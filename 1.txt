@@ -1,0 +1,1 @@
+tar -zvf lianliankan.tgz lianliankan
