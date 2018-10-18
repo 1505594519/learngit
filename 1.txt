@@ -10,3 +10,5 @@ $ cat>filenaem
 3.将几个文件合并为一个新文件。
 $cat file1 file2 >file
 git branch dev 
+6666666
+7777777
